@@ -1,0 +1,13 @@
+Flight ID,Source,Destination,Route,Delay,Fuel Used,Status
+AI-100,JAI,BOM,JAI -> AMD -> BOM,0,7.01,Landed
+AI-101,BLR,JAI,BLR -> GOI -> BOM -> AMD -> JAI,6,20.85,Landed
+AI-102,BOM,GOI,BOM -> GOI,13,4.09,Landed
+AI-103,CCU,LKO,CCU -> LKO,0,15.28,Landed
+AI-104,BOM,HYD,BOM -> GOI -> BLR -> HYD,0,13.6,Landed
+AI-105,BOM,BLR,BOM -> GOI -> BLR,0,18.37,Landed
+AI-106,MAA,BOM,MAA -> BLR -> GOI -> BOM,6,12.35,Landed
+AI-107,LKO,BOM,LKO -> JAI -> AMD -> BOM,28,5.56,Flying
+AI-108,GOI,BLR,GOI -> BLR,0,4.68,Landed
+AI-109,JAI,GOI,JAI -> AMD -> BOM -> GOI,0,5.86,Landed
+AI-110,LKO,GOI,LKO -> JAI -> AMD -> BOM -> GOI,31,14.07,Flying
+AI-111,DEL,GOI,DEL -> JAI -> AMD -> BOM -> GOI,0,24.65,Landed
